@@ -2,7 +2,8 @@
 - 👀 I’m interested in Fun Coding 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 If anyone wants to contact me please go through this: linkedin.com/in/susovan-sahoo777
+
 
 <!---
 susovan777/susovan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
