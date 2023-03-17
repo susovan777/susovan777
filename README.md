@@ -2,7 +2,6 @@
 - 👀 I’m interested in Fun Coding 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 If anyone wants to contact me please go through this: linkedin.com/in/susovan-sahoo777
 
 
 <!---
