@@ -10,7 +10,7 @@
 - 🧑‍💻 I’m Tech Enthusiast
 - 👀 I’m interested in Fun Coding 
 - 🌱 I’m currently learning Full-stack Web development 
-- 🏢 I’m working in LTIMindtree
+- 🏢 Currently working in LTIMindtree
 
 #
 
@@ -20,9 +20,16 @@
 
 ![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovan777\&rank_icon=github\&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
 
+#
+
+<h3 align="center">Connect Me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/susovan-sahoo777/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br>
+
 <!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/susovan777/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=susovan777&&style=flat-square" />
 </p> -->
 
 <!---
