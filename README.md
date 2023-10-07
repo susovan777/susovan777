@@ -3,20 +3,27 @@
 <p align="center"><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" style="align: center;"></p>
 <h2 align="center">Hi, I am Susovan</h2>
 
+#  
 
-- 👋 Hi, I’m @susovan777
+## About Me
+
+- 🧑‍💻 I’m Tech Enthusiast
 - 👀 I’m interested in Fun Coding 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full-stack Web development 
+- 🏢 I’m working in LTIMindtree
 
+#
 
-![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovan777)
-![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovan777&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+## GitHub Stats
 
-<p align="center"> 
+<!-- ![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovan777) -->
+
+![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovan777\&rank_icon=github\&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/susovan777/count.svg" />
-</p>
+</p> -->
 
 <!---
 susovan777/susovan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
