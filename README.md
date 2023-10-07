@@ -14,6 +14,10 @@
 
 #
 
+## Language Stats
+
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=susovan777&layout=compact)
+
 ## GitHub Stats
 
 <!-- ![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovan777) -->
