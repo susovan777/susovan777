@@ -3,8 +3,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" style="align: center;"></p>
 <h2 align="center">Hi, I am Susovan</h2>
 
-#  
-
 ## About Me
 
 - 🧑‍💻 I’m Tech Enthusiast
@@ -14,11 +12,11 @@
 
 #
 
-## Language Stats
+<h3 align="center">Language Stats</h3>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=susovan777&layout=compact)
 
-## GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
 <!-- ![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovan777) -->
 
