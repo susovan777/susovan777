@@ -7,7 +7,13 @@
 
 - 🧑‍💻 I’m Tech Enthusiast
 - 👀 I’m interested in Fun Coding 
-- 🌱 I’m currently learning Full-stack Web development 
+- 🌱 I’m currently learning Full-stack Web development
+- 🔰 FrontEnd
+  -  HTML, CSS, Bootstrap, JavaScript
+- 🔰 BackEnd
+  -  HTTPS, REST, JSON
+- ⚓ Tools
+  -  VS Code, Git, Devlopers Tools, Netlify
 - 🏢 Currently working in LTIMindtree
 
 #
