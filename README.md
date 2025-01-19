@@ -14,7 +14,7 @@
   -  HTTPS, REST, JSON
 - ⚓ Tools
   -  VS Code, Git, Devlopers Tools, Netlify
-- 🏢 Currently working in LTIMindtree
+- 🏢 Employed at LTIMindtree
 
 #
 
